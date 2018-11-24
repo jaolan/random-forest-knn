@@ -8,3 +8,10 @@ This model makes predictions using a random forest classifier from Sci-kit Learn
 
  -forest_knn_GridSearchCV.py returns the best optimized parameters for the random forest model predictor from a set of given parameters using Grid Search Cross-Validation.
 
+### Dependencies:
+- Sci-kit Learn
+- Pandas
+- Python 3.~
+- A flat file for training/testing
+
+are all required for use of this training model. You may tweak this model with your own training/testing files for prediction, as one is not provided.
