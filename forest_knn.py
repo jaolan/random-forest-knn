@@ -7,9 +7,9 @@ from sklearn.model_selection import train_test_split
 #import matplotlib.pyplot as plt
 #import numpy as np
 
-HEADER_FILE = "/Users/superman/Downloads/attr.txt"
-TRAINING_FILE = '/Users/superman/Downloads/train.nmv.txt'
-TESTING_FILE = '/Users/superman/Downloads/prelim-nmv-noclass.txt'
+HEADER_FILE = "/Users/superman/Downloads/your-header-file.txt"
+TRAINING_FILE = '/Users/superman/Downloads/your-train-file.txt'
+TESTING_FILE = '/Users/superman/Downloads/your-test-file.txt'
 
 
 def get_headers():
